@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yoimiya</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/</link><description>Recent content on Yoimiya</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Yoimiya</copyright><lastBuildDate>Wed, 27 Mar 2024 13:59:52 +0800</lastBuildDate><atom:link href="https://12cjn.github.io/Yoimiya-Blog.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>一篇中文文档</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E4%B8%80%E7%AF%87%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</link><pubDate>Wed, 27 Mar 2024 13:59:52 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E4%B8%80%E7%AF%87%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</guid><description/></item><item><title>First</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/first/</link><pubDate>Wed, 27 Mar 2024 10:35:51 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/first/</guid><description>&lt;p>你好，这是第一个文档。&lt;/p></description></item><item><title>收益凭证</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%94%B6%E7%9B%8A%E5%87%AD%E8%AF%81/</link><pubDate>Tue, 26 Mar 2024 13:59:52 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%94%B6%E7%9B%8A%E5%87%AD%E8%AF%81/</guid><description>&lt;h1 id="券商的收益凭证到底是什么保本吗">券商的收益凭证到底是什么？保本吗？&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yoimiya</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/</link><description>Recent content on Yoimiya</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Yoimiya</copyright><lastBuildDate>Thu, 28 Mar 2024 10:09:03 +0800</lastBuildDate><atom:link href="https://12cjn.github.io/Yoimiya-Blog.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>日斐哥讲两融</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</link><pubDate>Thu, 28 Mar 2024 10:09:03 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</guid><description>&lt;p>[TOC]&lt;/p>
+&lt;h1 id="两融">两融&lt;/h1>
+&lt;blockquote>
+&lt;p>注重客户开发&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="一基础概念">一、基础概念&lt;/h2>
+&lt;h3 id="1保证金余额">1、保证金余额&lt;/h3>
+&lt;blockquote>
+&lt;p>保证金余额是个虚拟的概念，实际在账户里是查不到的。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="保证金">保证金&lt;/h4>
+&lt;p>是指客户向中信证券借入资金或证券时，中信证券向客户收取的一定比例的资金。**保证金可以由向中信证券认可的证券充抵。**中信证券认可的证券应符合证券交易所关于可充抵保证金证券范围的规定。&lt;/p>
+&lt;h4 id="保证金可用余额">保证金可用余额&lt;/h4>
+&lt;p>客户用于冲抵保证金的现金、经折算后的证券市值及融资融券交易产生的浮动盈亏经折算后形成的&lt;strong>保证金总额，减去&lt;/strong>客户未了结融资融券交易&lt;strong>已占用保证金及相关利息、费用&lt;/strong>的余额。融资融券交易产生的浮盈经折算后计入保证金，浮亏全额抵减保证金。&lt;/p>
+&lt;h4 id="计算方法">计算方法&lt;/h4>
+&lt;p>&lt;img src="https://yomiyause-typora-picgo-1.oss-cn-shenzhen.aliyuncs.com/imgs/2023/06/01/20230601101920.png"
+loading="lazy"
+alt="image-20230601101919845"
+>&lt;/p>
+&lt;h3 id="2融资融券保证金比例">2、融资/融券保证金比例&lt;/h3>
+&lt;p>&lt;strong>融资&lt;/strong>一般&lt;strong>杠杆1:1&lt;/strong>
+&lt;strong>融券&lt;/strong>一般&lt;strong>杠杆1:2&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>例子：
+比如100万的现金划入信用账户中，此时信用账户：100万。&lt;/p>
+&lt;p>融资&lt;strong>杠杆1:1&lt;/strong> 即100万
+融资100万+信用账户100万都拿去买股相当于买股200万。&lt;/p>
+&lt;p>融券&lt;strong>杠杆1:2&lt;/strong> 即200万&lt;/p>
+&lt;/blockquote>
+&lt;p>着这样设置杠杆的&lt;strong>目的&lt;/strong>：维持融资/融券保证金比例平衡&lt;/p>
+&lt;h3 id="3维持担保品比利">3、维持担保品比利&lt;/h3>
+&lt;p>维持担保比例是指客户信用账户内&lt;strong>担保物价值&lt;/strong>与其融资融券&lt;strong>债务&lt;/strong>之间的比例。对维持担保比例的控制以合同为准。&lt;/p>
+&lt;p>&lt;img src="https://yomiyause-typora-picgo-1.oss-cn-shenzhen.aliyuncs.com/imgs/2023/06/01/20230601105503.png"
+loading="lazy"
+alt="image-20230601105502803"
+>&lt;/p>
+&lt;p>简单来看就是&lt;strong>总资产/总负债&lt;/strong>&lt;/p>
+&lt;h4 id="维持担保品比例计算举例">维持担保品比例计算举例&lt;/h4>
+&lt;p>客户信用账户内有现金10万元，融资买入股票A，数量1万股，价格10元；融券卖出股票B，数量0.5万股，价格20元。（利息及费用不计；假设融资保证金比例和融券保证金比例符合规定的要求。）&lt;/p>
+&lt;p>则此时信用账户内现金变为**：**20万元（自有现金10万元+融券卖出现金0.5万×20元）
+融资买入金额为：10万元（1万×10元）
+维持担保比例为：（20万 + 1万×10）÷（10万 + 0.5万×20元）=150%&lt;/p>
+&lt;p>当股票A价格不变，股票B上涨到25元，此时维持担保比例为：&lt;/p>
+&lt;p>（信用帐户内现金20万 + 信用证券账户内认可的证券市值 1万股×10元）÷（融资买入金额 10万+融券卖出市值0.5万×25元）=133%&lt;/p>
+&lt;h2 id="二交易流程">二、交易流程&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">graph LR
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">转入资产 --&amp;gt; 借入 --&amp;gt; 归还
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>（T+1）划入第二天后到信用账户&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">graph LR
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">担保品转入 --&amp;gt; 融资买入 --&amp;gt; 买入/卖券
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">银证转入 --&amp;gt; 融券卖出 --&amp;gt; 现券还券/买券还券
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>持续6个月，展期会产生其他负债合约（利息-利息半年结算一次）&lt;/p>
+&lt;h2 id="三四大细节">三、四大细节&lt;/h2>
+&lt;h3 id="1保证金折算率">1、保证金折算率&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">优质股 ~ 一般股&lt;/th>
+&lt;th style="text-align:center">差股&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">70%~65%（证金业务）&lt;/td>
+&lt;td style="text-align:center">35%~0%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="2持仓集中度">2、持仓集中度&lt;/h3>
+&lt;p>A、B、C、D、E&lt;/p>
+&lt;h3 id="3持股到一定比例平仓线会拉高">3、持股到一定比例，平仓线会拉高&lt;/h3>
+&lt;p>双创版幅度是20%、北交所是30%&lt;/p>
+&lt;p>即波动大的股票买多，会拉高平仓线&lt;/p>
+&lt;h3 id="4强行平仓">4、强行平仓&lt;/h3>
+&lt;p>第一天维持担保比需回到130 ，第二天维持担保比需回到140，第三天强行平仓&lt;/p>
+&lt;h2 id="四营销意识">四、营销意识&lt;/h2>
+&lt;p>两融客户的换手率比一般交易客户高5倍左右，天生交易活跃度高，其手续费收入高&lt;/p>
+&lt;h3 id="按照长周期十年流程经历牛熊市来看两融特点">按照长周期、十年流程（经历牛熊市）来看两融特点&lt;/h3>
+&lt;ol>
+&lt;li>手续费收入可观&lt;/li>
+&lt;li>息差 2.7%成本核算&lt;/li>
+&lt;li>核心账户（做布局） 行情好的时候&lt;/li>
+&lt;li>客户服务粘性强（服务好交易型客户，推广出财富型客户）&lt;/li>
+&lt;/ol>
+&lt;h2 id="五方法论">五、方法论&lt;/h2>
+&lt;h3 id="话术">话术&lt;/h3>
+&lt;p>客户痛点、对客户关心&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>套的很深（持仓40%）&lt;/strong> 做T可以降成本 先融资买，下午融券卖&lt;/li>
+&lt;li>&lt;strong>微亏的&lt;/strong> 加仓&lt;/li>
+&lt;li>“&lt;strong>短线高手&lt;/strong>”&lt;/li>
+&lt;li>&lt;strong>急用钱&lt;/strong> 仓位置换（两融借钱不上征信）&lt;/li>
+&lt;li>&lt;strong>长线（价值投资）&lt;/strong> ETF融券&lt;/li>
+&lt;/ol></description></item><item><title>一篇中文文档</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E4%B8%80%E7%AF%87%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</link><pubDate>Wed, 27 Mar 2024 13:59:52 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E4%B8%80%E7%AF%87%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</guid><description/></item><item><title>First</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/first/</link><pubDate>Wed, 27 Mar 2024 10:35:51 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/first/</guid><description>&lt;p>你好，这是第一个文档。&lt;/p></description></item><item><title>收益凭证</title><link>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%94%B6%E7%9B%8A%E5%87%AD%E8%AF%81/</link><pubDate>Tue, 26 Mar 2024 13:59:52 +0800</pubDate><guid>https://12cjn.github.io/Yoimiya-Blog.github.io/p/%E6%94%B6%E7%9B%8A%E5%87%AD%E8%AF%81/</guid><description>&lt;h1 id="券商的收益凭证到底是什么保本吗">券商的收益凭证到底是什么？保本吗？&lt;/h1>
 &lt;p>首先给出答案：&lt;strong>收益凭证的确是资管新规下，唯一的保本产品&lt;/strong>&lt;/p>
 &lt;p>上次给大家介绍&lt;a class="link" href="https://zhuanlan.zhihu.com/p/361451439" target="_blank" rel="noopener"
 >雪球结构&lt;/a>时讲到收益凭证，有些朋友就很好奇，收益凭证除了雪球外还有哪些，具体是什么样的形式，那么今天我们就来好好讲一下收益凭证。&lt;/p>
