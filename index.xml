@@ -146,14 +146,13 @@ color: #9ca3af;
 &lt;/div>
 &lt;/div>&lt;/p>
 &lt;p>⬇️折叠面板
-&lt;details class="accordion rounded border dark:border-darkBorder" open>
-&lt;summary class="flex items-center px-4 py-2 font-bold before:mr-0.5 before:-mt-0.5 before:text-xl before:text-gray-400">折叠面板&lt;/summary>
-&lt;div class="border-t px-4 py-2 dark:border-darkBorder">&lt;ul>
+&lt;details>
+&lt;summary>折叠面板&lt;/summary>
+&lt;ul>
 &lt;li>Vegetables&lt;/li>
 &lt;li>Fruits&lt;/li>
 &lt;li>Fish&lt;/li>
 &lt;/ul>
-&lt;/div>
 &lt;/details>&lt;/p></description></item><item><title>日斐哥讲两融</title><link>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</link><pubDate>Thu, 28 Mar 2024 10:09:03 +0800</pubDate><guid>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</guid><description>&lt;p>[TOC]&lt;/p>
 &lt;h1 id="两融">两融&lt;/h1>
 &lt;blockquote>
