@@ -1,9 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yoimiya</title><link>https://mclizi.top/</link><description>Recent content on Yoimiya</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Yoimiya</copyright><lastBuildDate>Fri, 29 Mar 2024 11:04:52 +0800</lastBuildDate><atom:link href="https://mclizi.top/index.xml" rel="self" type="application/rss+xml"/><item><title>相关博客查看</title><link>https://mclizi.top/p/%E7%9B%B8%E5%85%B3%E5%8D%9A%E5%AE%A2%E6%9F%A5%E7%9C%8B/</link><pubDate>Fri, 29 Mar 2024 11:04:52 +0800</pubDate><guid>https://mclizi.top/p/%E7%9B%B8%E5%85%B3%E5%8D%9A%E5%AE%A2%E6%9F%A5%E7%9C%8B/</guid><description>&lt;p>&lt;a class="link" href="https://yelleis.top/" target="_blank" rel="noopener"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yoimiya</title><link>https://mclizi.top/</link><description>Recent content on Yoimiya</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Yoimiya</copyright><lastBuildDate>Sat, 06 Apr 2024 12:04:30 +0800</lastBuildDate><atom:link href="https://mclizi.top/index.xml" rel="self" type="application/rss+xml"/><item><title>相关博客查看</title><link>https://mclizi.top/p/%E7%9B%B8%E5%85%B3%E5%8D%9A%E5%AE%A2%E6%9F%A5%E7%9C%8B/</link><pubDate>Sat, 06 Apr 2024 12:04:30 +0800</pubDate><guid>https://mclizi.top/p/%E7%9B%B8%E5%85%B3%E5%8D%9A%E5%AE%A2%E6%9F%A5%E7%9C%8B/</guid><description>&lt;p>&lt;a class="link" href="https://yelleis.top/" target="_blank" rel="noopener"
 >https://yelleis.top/&lt;/a>
 很适合用来参考Hugo美化&lt;/p>
-&lt;p>{{&amp;lt; link-card name=&amp;ldquo;Yoimiya-Blog&amp;rdquo; desc=&amp;ldquo;一个属于Yoimiya的安静小屋.&amp;rdquo; link=&amp;ldquo;&lt;a class="link" href="https://github.com/12cjn/Yoimiya-Blog.github.io%22" target="_blank" rel="noopener"
->https://github.com/12cjn/Yoimiya-Blog.github.io"&lt;/a> img=&amp;ldquo;&lt;a class="link" href="https://thumbnail.ws/get/thumbnail/?apikey=ab45a17344aa033247137cf2d457fc39abcd7e16a464&amp;amp;url=mclizi.top&amp;amp;width=400&amp;amp;mobile=false%22" target="_blank" rel="noopener"
->https://thumbnail.ws/get/thumbnail/?apikey=ab45a17344aa033247137cf2d457fc39abcd7e16a464&amp;url=mclizi.top&amp;width=400&amp;mobile=false"&lt;/a> &amp;gt;}}&lt;/p></description></item><item><title>日斐哥讲两融</title><link>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</link><pubDate>Thu, 28 Mar 2024 10:09:03 +0800</pubDate><guid>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</guid><description>&lt;p>[TOC]&lt;/p>
+&lt;p>⬇️网页卡片式预览链接
+&lt;a1 href="https://mclizi.top/" target="_blank">
+&lt;div class="zhengti">
+&lt;a href="https://mclizi.top/">
+&lt;div class="wenzi">
+&lt;div class="linkk">
+&lt;div class="namee">Yoimiya-Blog&lt;/div>&lt;div class="descc">一个属于Yoimiya的安静小屋.&lt;/div>&lt;/div>
+&lt;/a>&lt;div class="linktext">https://mclizi.top/&lt;/div>
+&lt;/div>
+&lt;div class="daimg">&lt;img class="link-card-img" loading="lazy" src="https://thumbnail.ws/get/thumbnail/?apikey=ab45a17344aa033247137cf2d457fc39abcd7e16a464&amp;amp;url=mclizi.top&amp;amp;width=400&amp;amp;mobile=false" alt="" /> &lt;/div>
+&lt;/div>
+&lt;/a1>
+&lt;style>
+a1 {
+display: flex;
+flex-direction: column;
+}
+.zhengti {
+margin: auto;
+padding-top: 4%;
+padding-right: 4%;
+padding-bottom: 4%;
+padding-left: 4%;
+width: 100%;
+display: flex;
+align-items: left;
+flex-direction: row;
+border: 1px solid #e5e7eb;
+border-radius: 20px;
+background-color: #ffffff;
+transition: border 0.3s ease-in-out;
+box-shadow: 2px 4px 16px rgba(0, 0, 0, .05);
+}
+.wenzi {
+display: flex;
+align-items: left;
+flex-direction: column;
+flex: 2;
+}
+.zhengti:hover {
+transform: scale(1.03);
+box-shadow: 2px 4px 16px rgba(0, 0, 0, .05);
+}
+.linkk {
+display: flex;
+flex-direction: column;
+}
+.iconn {
+display: flex;
+align-items: center;
+}
+.iconn1 {
+width: 1.2em;
+height: 1.2em;
+margin-right: 0.5em;
+margin-bottom: 0.2em;
+}
+.namee {
+font-size: 1.7rem;
+font-weight: 600;
+margin-bottom: 0.5rem;
+color: var(--card-text-color-main);
+}
+.descc {
+font-size: 1.3rem;
+color: #9ca3af;
+margin-bottom: 0.5rem;
+}
+.linktext {
+font-size: 0.9rem;
+color: #9ca3af;
+}
+.link-card-icoon {
+width: 16px;
+height: 16px;
+margin-right: 0.5rem;
+}
+.daimg {
+display: flex;
+flex-direction: row;
+flex: 1;
+align-self: right;
+}
+.link-card-img {
+display: block;
+height: auto;
+max-height: 200px;
+width: 100%;
+object-fit: cover;
+max-width: 50%;
+margin-right: 2px;
+border-radius: 0.25rem;
+}
+a1:hover {
+background-color: var(--color-zoom-bg);
+border: 1px solid var(--theme);
+}
+@media (max-width:900px) {
+a1 {
+max-height: 25em;
+overflow-y: auto;
+padding-right: 4%;
+}
+.zhengti {
+display: flex;
+flex-direction: column;
+}
+}
+[data-scheme="dark"] {
+.zhengti {
+background-color: #161b22;
+border: 1px solid #30363d;
+}
+.descc {
+color: #9ca3af;
+}
+.linktext {
+color: #9ca3af;
+}
+}
+&lt;/style>
+&lt;/p>
+&lt;p>⬇️GitHub自动获取
+&lt;div class="github my-4 rounded border p-4 dark:border-darkBorder">
+&lt;div class="flex items-center text-xl">
+&lt;i class="eva eva-github mr-2">&lt;/i>
+&lt;a class="after:hidden" href="https://github.com/12cjn/Yoimiya-Blog.github.io" target="_blank">12cjn/Yoimiya-Blog.github.io&lt;/a>
+&lt;/div>
+&lt;div class="my-2 leading-6">&lt;/div>
+&lt;div class="flex items-center">
+&lt;div class="mr-4 inline-flex items-center">
+&lt;span class="mr-1 inline-block h-3 w-3 rounded-full" style="background-color:">&lt;/span>
+&lt;span>HTML&lt;/span>
+&lt;/div>
+&lt;div class="mr-4 inline-flex items-center">
+&lt;i class="eva eva-star mr-1 text-amber-400">&lt;/i>
+&lt;span>1&lt;/span>
+&lt;/div>
+&lt;div class="inline-flex items-center">
+&lt;i class="eva eva-shuffle-2 mr-1 text-blue-500">&lt;/i>
+&lt;span>0&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;/div>&lt;/p>
+&lt;p>⬇️折叠面板
+&lt;details class="accordion rounded border dark:border-darkBorder" open>
+&lt;summary class="flex items-center px-4 py-2 font-bold before:mr-0.5 before:-mt-0.5 before:text-xl before:text-gray-400">折叠面板&lt;/summary>
+&lt;div class="border-t px-4 py-2 dark:border-darkBorder">&lt;ul>
+&lt;li>Vegetables&lt;/li>
+&lt;li>Fruits&lt;/li>
+&lt;li>Fish&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>&lt;/p></description></item><item><title>日斐哥讲两融</title><link>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</link><pubDate>Thu, 28 Mar 2024 10:09:03 +0800</pubDate><guid>https://mclizi.top/p/%E6%97%A5%E6%96%90%E5%93%A5%E8%AE%B2%E4%B8%A4%E8%9E%8D/</guid><description>&lt;p>[TOC]&lt;/p>
 &lt;h1 id="两融">两融&lt;/h1>
 &lt;blockquote>
 &lt;p>注重客户开发&lt;/p>
